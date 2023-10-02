@@ -1,5 +1,27 @@
 /* Estilos para el navbar rojo */
 .navbar {
-    background-color: #FF0000; /* Rojo */
+    background-color: #FF0000;
+    /* Rojo */
 }
 
+/* Estilos para el footer verde */
+footer {
+    background-color: #008000;
+    /* Verde */
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+
+.menu-item {
+    padding: 20px;
+}
+
+.pizza-image {
+    width: 100%;
+    max-width: 1200px;
+    display: block;
+    margin: 0 auto;
+    padding: 20px;
+}
